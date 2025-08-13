@@ -17,6 +17,7 @@ Welcome to my GitHub! I am Nagendra Reddy Keshavareddy, a passionate developer a
 ## 👨‍💻 Skills
 
 - **Languages:** Python, Java, C, HTML, CSS, Javascript
+- **Core Concepts:** Data Structures & Algorithms (DSA), DBMS, Operating Systems (OS), Object Oriented Programming (OOP), Computer Networks
 - **Frameworks & Libraries:** Flask, TensorFlow, PyTorch, OpenCV, Pandas, Numpy
 - **Tools:** Git, Jupyter Notebook, VS Code
 - **Databases:** MySQL, MongoDB
