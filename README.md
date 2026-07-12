@@ -18,10 +18,10 @@ Welcome to my GitHub! I am Nagendra Reddy Keshavareddy, a passionate developer a
 
 - **Languages:** Python, Java, C, HTML, CSS, Javascript
 - **Core Concepts:** Data Structures & Algorithms (DSA), DBMS, Operating Systems (OS), Object Oriented Programming (OOP), Computer Networks
-- **Frameworks & Libraries:** Flask
-- **Tools:** Git, Jupyter Notebook, VS Code
+- **Frameworks & Libraries:** Spring Boot, Spring Data Jpa, Hibernate
+- **Tools:** Git, Jupyter Notebook, VS Code, IntelliJ IDEA
 - **Databases:** MySQL
-- **Areas:** Software Development, Machine Learning, Deep Learning, Data Analysis, Web Development
+- **Areas:** Software Development, Backend Developer
 
 ---
 
@@ -31,14 +31,14 @@ Welcome to my GitHub! I am Nagendra Reddy Keshavareddy, a passionate developer a
 A machine learning project to predict loan eligibility based on user input data.
 - [GitHub Repo](https://github.com/nagendrared/loan-eligibility-predictor)
 
-### Object Detection
-Deep learning-based object detection using OpenCV and TensorFlow.
-- [GitHub Repo](https://github.com/nagendrared/object-detection)
+### Employee Asset Management System
+A backend RESTful application built using Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL to manage employees, company assets, asset assignments, and repair requests with validation, exception handling, business logic, and search APIs.
+- [GitHub Repo](https://github.com/nagendrared/employee-asset-management)
 
-### ShopHub
-An e-commerce web application built with Django.
-- [GitHub Repo](https://github.com/nagendrared/shophub)
+ ### Vehicle Detection System
+A deep learning project that detects multiple vehicle types in real time using a custom-trained YOLOv11 model, achieving high detection accuracy and fast inference on Indian traffic datasets.
 
+- [GitHub Repo](https://github.com/nagendrared/Vehicle-Detection)
 ---
 
 ## 🎯 Coding Profiles
@@ -55,7 +55,7 @@ I actively participate in competitive programming and problem-solving:
 
 - **B.Tech – Computer Science and Engineering (Data Science)**
   - Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal
-  - CGPA: 8.82
+  - CGPA: 8.86
 
 - **Intermediate – MPC**
   - Rao's Junior College, Nandyal
