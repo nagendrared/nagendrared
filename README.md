@@ -1,6 +1,6 @@
-# Nagendra Reddy Keshavareddy
+# Keshavareddy Nagendra Reddy
 
-Welcome to my GitHub! I am Nagendra Reddy Keshavareddy, a passionate developer and problem solver with a strong foundation in software engineering, data science, and machine learning. Below you’ll find a snapshot of my skills, projects, and links to my online profiles.
+Welcome to my GitHub! I am Keshavareddy Nagendra Reddy, a passionate developer and problem solver with a strong foundation in software engineering, data science, and machine learning. Below you’ll find a snapshot of my skills, projects, and links to my online profiles.
 
 ---
 
