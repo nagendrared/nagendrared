@@ -18,7 +18,7 @@ Welcome to my GitHub! I am Nagendra Reddy Keshavareddy, a passionate developer a
 
 - **Languages:** Python, Java, C, HTML, CSS, Javascript
 - **Core Concepts:** Data Structures & Algorithms (DSA), DBMS, Operating Systems (OS), Object Oriented Programming (OOP), Computer Networks
-- **Frameworks & Libraries:** Spring Boot, Spring Data Jpa, Hibernate
+- **Frameworks & Libraries:** Spring Boot, Spring Data JPA, Hibernate
 - **Tools:** Git, Jupyter Notebook, VS Code, IntelliJ IDEA
 - **Databases:** MySQL
 - **Areas:** Software Development, Backend Developer
